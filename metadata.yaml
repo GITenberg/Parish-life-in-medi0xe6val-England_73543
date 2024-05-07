@@ -1,0 +1,31 @@
+_repo: Parish-life-in-medi0xe6val-England_73543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gasquet, Francis Aidan
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '37321'
+    url: http://www.gutenberg.org/2009/agents/37321
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Aidan_Gasquet
+description: ''
+gutenberg_issued: '2024-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73543'
+language: en
+pgterms:marc904: https://archive.org/details/parishlifeinengl00gasquoft/
+pgterms:marc905: 20220106212637gasquet
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Carla Foust, MWS and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bMethuen & Co., $c1906, pubdate 1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Parish life in mediæval England
+url: http://www.gutenberg.org/ebooks/73543
